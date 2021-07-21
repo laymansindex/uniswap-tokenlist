@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Laymans Index",
+    "setSymbol": "OLI",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/oli.png",
+    "setDescription": "OLI is a digital asset index built to provide a one-stop-shop for newcomers to the crypto space with an offering of a risk-adjusted, highly-reputable basket of token. We aim to ensure everyone is exposed to the potential gains, education and development of the blockchain market ",
+    "website": "https://www.laymansindex.com",
+    "managerName": "LaymansIndex",
+    "managerTwitter": "Indexoutis",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/olim.png",
+    "managerDescription": "The Outis Laymans Index is a risk-weighted index tracking the performance of some of the most quality, use-case specific Ethereum-based products on the market."
+  },
+  "version": 1
+}
